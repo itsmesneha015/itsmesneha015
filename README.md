@@ -84,7 +84,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight)
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesneha015&layout=compact&theme=tokyonight)
 
