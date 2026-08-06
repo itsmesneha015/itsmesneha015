@@ -54,7 +54,7 @@
 ---
 
 ### ✅ To-Do List Application
-**Status:** 🟡 In Progress
+**Status:** ✅ completed 
 
 **Tech Stack:** Python, HTML, CSS, JavaScript
 
@@ -63,7 +63,7 @@
 ---
 
 ### 🤖 AutoAI Architect
-**Status:** 🟡 In Progress
+**Status:** ✅ completed 
 
 **Tech Stack:** Python, TensorFlow, Scikit-learn, Optuna, NumPy, Pandas
 
@@ -86,7 +86,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesha015&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesneha015&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=itsmesneha015&theme=tokyonight)
 
