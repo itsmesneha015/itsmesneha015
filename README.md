@@ -84,9 +84,7 @@
 
 ## 📊 GitHub Stats
 
-!![GitHub Streak](https://streak-stats.demolab.com?user=itsmesneha015&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmesneha015&theme=tokyo-night)
+![GitHub Streak](https://streak-stats.demolab.com?user=itsmesneha015&theme=tokyonight)
 
 
 ## 📈 Contribution Graph
