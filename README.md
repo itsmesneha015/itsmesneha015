@@ -84,13 +84,10 @@
 
 ## 📊 GitHub Stats
 
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight&cache_seconds=1800)
+!![GitHub Streak](https://streak-stats.demolab.com?user=itsmesneha015&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesneha015&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmesneha015&theme=tokyo-night)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=itsmesneha015&theme=tokyonight)
-
----
 
 ## 📈 Contribution Graph
 
