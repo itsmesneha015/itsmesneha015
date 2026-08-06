@@ -43,18 +43,51 @@
 ---
 
 ## 🚀 Projects
+## 🚀 Current Projects
 
-### 📌 Attendance System Using Face Recognition
-Python + OpenCV based attendance management system using face recognition.
+### 📊 Retail Sales Analytics Dashboard
+**Status:** 🟡 In Progress
 
-### 📌 Retail Sales Analytics Dashboard
-Power BI dashboard with sales forecasting and business insights.
+**Tech Stack:**
+- Python
+- Pandas
+- NumPy
+- Power BI
+- Excel
+- Matplotlib
 
-### 📌 Student Performance Prediction
-Machine Learning model for predicting student performance.
+**Description:**
+Developing an interactive retail sales analytics dashboard to analyze sales trends, customer behavior, and forecast future sales using data visualization and machine learning.
 
 ---
 
+### ✅ To-Do List Application
+**Status:** 🟡 In Progress
+
+**Tech Stack:**
+- Python
+- HTML
+- CSS
+- JavaScript
+
+**Description:**
+Building a simple and user-friendly To-Do List application to manage daily tasks with features like add, edit, delete, and mark tasks as completed.
+
+---
+
+### 🤖 AutoAI Architect
+**Status:** 🟡 In Progress
+
+**Tech Stack:**
+- Python
+- TensorFlow
+- Scikit-learn
+- Optuna
+- NumPy
+- Pandas
+
+**Description:**
+Developing an AI system that automatically designs, trains, and optimizes neural network architectures using Neural Architecture Search (NAS) and optimization techniques.
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight)
