@@ -9,7 +9,7 @@
 <a href="mailto:snehakotari54@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
-![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=itsmesneha015&show_icons=true&theme=tokyonight)
+[GitHubStats]_(https://githubreadmestats.vercel.app/apiusername=itsmesneha015&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesneha015&layout=compact&theme=tokyonight)
 
