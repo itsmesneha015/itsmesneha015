@@ -22,77 +22,71 @@
 
 - 🎓 B.E. CSE (AI & ML) Student
 - 🌱 Currently learning Machine Learning, Data Analytics & Deep Learning
-- 💻 Skilled in Python, SQL, Power BI, Tableau, OpenCV
-- 🚀 Interested in AI, ML and Data Analytics
+- 💻 Learning Python, SQL, Power BI, Tableau and OpenCV
+- 🚀 Passionate about AI, Machine Learning and Data Analytics
 - 🤝 Open to Internship & Placement Opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, C, C++, Java, SQL
+**Languages:** Python, C, C++, Java (Basics), SQL
 
 **Web:** HTML, CSS, JavaScript
 
 **Database:** MySQL
 
-**Data Analytics:** Pandas, NumPy, Matplotlib, Power BI, Tableau, Excel
+**Data Analytics:** Pandas, NumPy, Matplotlib, Power BI, Tableau, Microsoft Excel
 
 **AI/ML:** Machine Learning, OpenCV, Scikit-Learn
 
 ---
 
-## 🚀 Projects
 ## 🚀 Current Projects
 
 ### 📊 Retail Sales Analytics Dashboard
 **Status:** 🟡 In Progress
 
-**Tech Stack:**
-- Python
-- Pandas
-- NumPy
-- Power BI
-- Excel
-- Matplotlib
+**Tech Stack:** Python, Pandas, NumPy, Power BI, Excel, Matplotlib
 
-**Description:**
-Developing an interactive retail sales analytics dashboard to analyze sales trends, customer behavior, and forecast future sales using data visualization and machine learning.
+**Description:** Developing an interactive dashboard to analyze retail sales, visualize trends, and forecast future sales.
 
 ---
 
 ### ✅ To-Do List Application
 **Status:** 🟡 In Progress
 
-**Tech Stack:**
-- Python
-- HTML
-- CSS
-- JavaScript
+**Tech Stack:** Python, HTML, CSS, JavaScript
 
-**Description:**
-Building a simple and user-friendly To-Do List application to manage daily tasks with features like add, edit, delete, and mark tasks as completed.
+**Description:** Building a task management application with features to add, edit, delete, and mark tasks as completed.
 
 ---
 
 ### 🤖 AutoAI Architect
 **Status:** 🟡 In Progress
 
-**Tech Stack:**
-- Python
-- TensorFlow
-- Scikit-learn
-- Optuna
-- NumPy
-- Pandas
+**Tech Stack:** Python, TensorFlow, Scikit-learn, Optuna, NumPy, Pandas
 
-**Description:**
-Developing an AI system that automatically designs, trains, and optimizes neural network architectures using Neural Architecture Search (NAS) and optimization techniques.
+**Description:** Developing an AI system that automatically designs and optimizes neural network architectures using Neural Architecture Search (NAS).
+
+---
+
+## 📜 Certifications
+
+- Oracle SQL Workshop
+- Microsoft Machine Learning
+- Infosys Springboard
+- Kaggle
+- Deloitte Virtual Experience
+- AI & DA & Power BI Internship
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesneha015&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesha015&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=itsmesneha015&theme=tokyonight)
 
@@ -112,4 +106,4 @@ Developing an AI system that automatically designs, trains, and optimizes neural
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile!**
+⭐ *"Learning every day, building the future with AI."*
