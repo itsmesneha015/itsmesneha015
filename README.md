@@ -44,7 +44,7 @@
 
 ## 🚀 Current Projects
 
-### 📊 Retail Sales Analytics Dashboard
+### 📊 Retail Sales Analytics Dashboard and Computer Vision
 **Status:** 🟡 In Progress
 
 **Tech Stack:** Python, Pandas, NumPy, Power BI, Excel, Matplotlib
