@@ -47,7 +47,7 @@
 ### 📊 Retail Sales Analytics Dashboard and Computer Vision
 **Status:** 🟡 In Progress
 
-**Tech Stack:** Python, Pandas, NumPy, Power BI, Excel, Matplotlib
+**Tech Stack:** Python, Pandas, NumPy, Power BI, Excel, Matplotlib,OpenCV
 
 **Description:** Developing an interactive dashboard to analyze retail sales, visualize trends, and forecast future sales.
 
