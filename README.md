@@ -67,6 +67,7 @@ Microsoft Excel
 **Description:** Developing an interactive business intelligence system to analyze retail sales, customer behavior, seasonal demand, store/zone performance, and forecast future sales.
 
 **Live Demo:** https:https://retail-sales-intelligence-and-customer-analytics-y87fmfjgas7d6.streamlit.app/
+
 **GitHub:** https://github.com/itsmesneha015/Retail-Sales-Intelligence-and-Customer-Analytics
 
 ---
@@ -94,6 +95,7 @@ Microsoft Excel
 **Description:** Developed an AI system that automates neural network architecture design using Neural Architecture Search (NAS) to explore and optimize suitable neural network architectures.
 
 **Live Demo:**https://autoaiarchitect-egqyylmanda6tipew6vvbm.streamlit.app/
+
 **GitHub:**  https://github.com/itsmesneha015/AutoAI_Architect
 
 ---
