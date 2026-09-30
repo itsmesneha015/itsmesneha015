@@ -165,14 +165,10 @@ Microsoft Excel
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 My Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesneha015&theme=tokyonight&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/itsmesneha015/itsmesneha015/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
