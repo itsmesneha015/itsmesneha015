@@ -112,25 +112,16 @@ Microsoft Excel
 
 ---
 
-### 🎓 Student Placement Eligibility Prediction
+### 🛠️ Equipment Maintenance Risk Classification
 
 **Status:** 🟢 Completed
 
-**Tech Stack:** Python, Pandas, Scikit-Learn, Machine Learning
+**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Joblib, Streamlit, Machine Learning
 
-**Description:** Developed a machine learning model to predict student placement eligibility using CGPA, attendance, coding score, projects completed, internship experience, and backlogs.
+**Description:** Developed a machine learning application to classify equipment maintenance risk as Low, Medium, or High using factors such as runtime hours, previous maintenance interval, temperature, vibration, and load. Implemented data preprocessing, model training and evaluation, risk probability prediction, and an interactive Streamlit dashboard with batch prediction and risk alerts.
 
----
+**GitHub:** https://github.com/itsmesneha015/Equipment_Maintenance_Risk_Classification
 
-### 🤖 AI Customer Support Ticket Classification
-
-**Status:** 🟢 Completed
-
-**Tech Stack:** Python, Pandas, Scikit-Learn, TF-IDF, Machine Learning
-
-**Description:** Developed a text classification system to automatically classify customer support tickets based on type, priority, and queue using TF-IDF and machine learning techniques.
-
----
 
 ## 📜 Certifications
 
