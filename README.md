@@ -112,6 +112,18 @@ Microsoft Excel
 
 ---
 
+### 📊 Customer Spending EDA & Feature Engineering
+
+***Status:*** 🟢 Completed
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Data Analysis, Feature Engineering
+
+**Description:** Performed exploratory data analysis on customer spending data to identify spending patterns, customer characteristics, and relationships between important features. Implemented data cleaning, statistical analysis, visualizations, and feature engineering to prepare meaningful features for further machine learning and customer analytics.
+
+**GitHub:** https://github.com/itsmesneha015/Customer_Spending_EDA_Feature_Engineering
+
+---
+
 ### 🛠️ Equipment Maintenance Risk Classification
 
 **Status:** 🟢 Completed
