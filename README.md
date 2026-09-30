@@ -165,13 +165,16 @@ Microsoft Excel
 
 ---
 
-## 🐍 My Contributions
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/itsmesneha015/itsmesneha015/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmesneha015&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmesneha015&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmesneha015&theme=tokyonight" />
+</p>
 
 ## 📫 Connect With Me
 
