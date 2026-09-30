@@ -165,17 +165,15 @@ Microsoft Excel
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesneha015&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsmesneha015&theme=tokyonight" />
 </p>
 
-## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmesneha015" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsmesneha015&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsmesneha015&theme=tokyonight" />
 </p>
 
 ---
