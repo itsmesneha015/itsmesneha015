@@ -122,6 +122,9 @@ Microsoft Excel
 
 **GitHub:** https://github.com/itsmesneha015/Equipment_Maintenance_Risk_Classification
 
+**Live Demo:** https://equipmentmaintenanceriskclassification-jy6vf2pfvnp5egzrqpxubw.streamlit.app/
+
+---
 
 ## 📜 Certifications
 
