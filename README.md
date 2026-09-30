@@ -167,13 +167,14 @@ Microsoft Excel
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=itsmesneha015&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsmesneha015&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesneha015&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsmesneha015&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmesneha015&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
 
 ---
 
