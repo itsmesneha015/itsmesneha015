@@ -60,7 +60,7 @@ Microsoft Excel
 
 ### 📊 Retail Sales Intelligence & Customer Analytics
 
-**Status:** 🟡 In Progress
+**Status:** 🟢 Completed & Deployed
 
 **Tech Stack:** Python, SQL, Pandas, NumPy, Power BI, Excel, Matplotlib, OpenCV
 
