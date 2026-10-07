@@ -140,6 +140,9 @@ Microsoft Excel
 
 ## 📜 Certifications
 
+**Link🔗:**
+https://drive.google.com/drive/folders/1dU885bA8yHeqU8vzKg0eoVAWj5l8toBu
+
 - Oracle SQL Workshop
 - Microsoft Machine Learning
 - Infosys Springboard – Java Programming
